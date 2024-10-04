@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    border: 5px solid blue;
+    border-radius: 15px;
+    padding: 10px;
+}
+header a{
+    background-color: navy;
+    border: 1px solid;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin: 50px;
+}
+h1{
+    color: navy
+}
+footer p{
+    font-family: 'Times New Roman', Times, serif;
+    border: solid gr 1px;
+    
+}
+nav{
+    
+    border-radius: 10px;
+    padding: 3px;
+    margin: 20px;
+    
+}
+nav a{
+border: 3px solid navy;
+border-radius: 10px;
+    padding: 3px;
+    margin: 20px;
+    text-decoration: none;
+    color: navy;
+    font-size: 22px;
+}
+.cart{
+    border: 3px solid navy;
+    border-radius: 10px;
+    padding: 3px;
+    margin: 5px;
+}
+.knopka{
+border: 3px solid navy;
+border-radius: 10px;
+padding: 2px;
+margin: 5px;
+text-decoration: none;
+}
